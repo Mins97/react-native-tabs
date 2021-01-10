@@ -13,7 +13,7 @@ tabs는 expo init bare tabs 로 만들어졌습니다. 기본 탭입니다.
 This is a sample template project in react-native use tab.
 ```
 
-##사용법
+## 사용법
 
 ```
 git clone https://github.com/Mins97/react-native-tabs.git && cd react-native-tabs && npm install
