@@ -7,11 +7,14 @@ tabs는 expo init bare tabs 로 만들어졌습니다. 기본 탭입니다.
 <img src="https://user-images.githubusercontent.com/23623248/104131559-592bd780-53ba-11eb-8666-da9597a07e5b.jpg" width="30%"></img>
 
 # 소개
+
 ```
 리액트 네이티브 샘플 탭입니다.
 This is a sample template project in react-native use tab.
 ```
+
 ##사용법
+
 ```
 git clone https://github.com/Mins97/react-native-tabs.git && cd react-native-tabs && npm install
 ```
